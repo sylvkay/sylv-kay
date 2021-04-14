@@ -1,0 +1,42 @@
+div form p{
+	font-weight: bolder; text-transform: capitalize;
+}
+ div form a{
+	 text-decoration: underline;
+}
+div ul {
+	float: right;
+}
+ul {
+	
+	
+}
+ul li {
+	display: inline-block;
+	
+}
+ul li a {
+	font-family: arial;
+	font-size: 18px;
+	font-weight: bolder;
+	margin-left: 20px;
+	margin-top: 30px;
+	
+}
+.comp{font-family: arial;
+	font-size: 18px;
+	font-weight: bolder;
+	margin-left: 20px;
+	margin-top: 30px;
+	text-align: left;
+}
+.menu
+{margin-top: 30px;height:50px;background-color: lightgray;text-align: right;padding-right: 50px;}
+.wrapper {
+	width: 960px;
+	height: 0 auto 0  auto;
+	background-color: black;
+}
+
+
+}
